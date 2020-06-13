@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Shed.CoreKit.WebApi</RootNamespace>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+</Project>
